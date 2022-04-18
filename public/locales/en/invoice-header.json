@@ -1,0 +1,8 @@
+{
+    "invoice_title": "Invoice ",
+    "invoice_number": "No.",
+    "issued_at": "Issued at: ",
+    "due_at": "Due at:",
+    "modal_issued_at_title": "Issued at",
+    "modal_due_at_title": "Due at"
+}
