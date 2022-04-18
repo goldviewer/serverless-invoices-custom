@@ -1,9 +1,0 @@
-{
-  "statuses": {
-    "draft": "mustand",
-    "booked": "kinnitatud",
-    "sent": "saadetud",
-    "paid": "makstud",
-    "cancelled": "tühistatud"
-  }
-}

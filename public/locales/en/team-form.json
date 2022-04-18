@@ -19,13 +19,6 @@
         "invoice_due_days": "Payment terms, days",
         "currency": "Default currency"
     },
-    "address": {
-        "company_address": "Company address",
-        "company_postal_code": "Postal code",
-        "company_city": "City",
-        "company_county": "County/State",
-        "company_country": "Country"
-    },
     "tax_modal": {
         "title": "Overwrite taxes for current invoice rows?",
         "ok_title": "Overwrite",

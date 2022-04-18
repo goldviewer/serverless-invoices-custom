@@ -1,9 +1,0 @@
-{
-  "statuses": {
-    "draft": "borrador",
-    "booked": "reservado",
-    "sent": "enviado",
-    "paid": "pagado",
-    "cancelled": "cancelado"
-  }
-}
